@@ -8,10 +8,25 @@ div#wall
     display: none;
 } 
 
-
-
 #Wall
-#tag-3{
+#tag-3
+.slick-wicked{
     display: none;
 }
-  
+
+
+div#wall #tag-4 {
+
+    display: none;
+}
+
+  #wall :nth-of-type(5).parent #tag-5.slick
+  {
+    display: none;
+  }
+  #wall :nth-of-type(6).parent{
+    display: none;
+  }
+  #wall :nth-of-type(7).parent {
+    display: none;
+  }
